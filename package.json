@@ -4,7 +4,6 @@
   "private": true,
   "description": "",
   "main": "index.js",
-  "homepage": "https://piotr-bak.github.io/katarzyna-gora",
   "scripts": {
     "start": "webpack serve --open"
   },
